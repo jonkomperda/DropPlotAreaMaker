@@ -27,5 +27,10 @@ This code falls under the GNU GPL license included in the repository. Please be 
 ## Citations
 If using this code for publications, please cite appropriately.
 
+Komperda, J. (2021). DropletAreaPlotMaker v0.1 [Source code]. https://github.com/jonkomperda/DropPlotAreaMaker/. DOI: 10.5281/zenodo.4508531
+
+[![DOI](https://zenodo.org/badge/336332763.svg)](https://zenodo.org/badge/latestdoi/336332763)
+
+
 ## Questions or Contact
 If you have any questions about the code or it's usage, please contact Jon at jonk@uic.edu.
